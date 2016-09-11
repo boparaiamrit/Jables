@@ -1,5 +1,5 @@
 <?php
-namespace hedronium\Jables;
+namespace Boparaiamrit\Jables;
 
 use Illuminate\Database\Eloquent\Model;
 

@@ -1,5 +1,5 @@
 <?php
-namespace hedronium\Jables;
+namespace Boparaiamrit\Jables;
 
 use Illuminate\Filesystem\Filesystem;
 use Seld\JsonLint\JsonParser;

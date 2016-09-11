@@ -1,9 +1,9 @@
 <?php
-namespace hedronium\Jables\commands;
+namespace Boparaiamrit\Jables\commands;
 
 use Illuminate\Database\DatabaseManager;
-use hedronium\Jables\Destroyer;
-use hedronium\Jables\Command;
+use Boparaiamrit\Jables\Destroyer;
+use Boparaiamrit\Jables\Command;
 
 class Destroy extends Command
 {

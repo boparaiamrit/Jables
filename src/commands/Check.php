@@ -1,10 +1,10 @@
 <?php
-namespace hedronium\Jables\commands;
+namespace Boparaiamrit\Jables\commands;
 
-use \hedronium\Jables\Checker;
-use \hedronium\Jables\Command;
+use \Boparaiamrit\Jables\Checker;
+use \Boparaiamrit\Jables\Command;
 
-use \hedronium\Jables\exceptions\ParseException;
+use \Boparaiamrit\Jables\exceptions\ParseException;
 
 class Check extends Command
 {

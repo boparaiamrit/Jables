@@ -1,10 +1,10 @@
 <?php
-namespace hedronium\Jables\commands;
+namespace Boparaiamrit\Jables\commands;
 
-use hedronium\Jables\Runner;
-use hedronium\Jables\Checker;
-use hedronium\Jables\Loader;
-use hedronium\Jables\Command;
+use Boparaiamrit\Jables\Runner;
+use Boparaiamrit\Jables\Checker;
+use Boparaiamrit\Jables\Loader;
+use Boparaiamrit\Jables\Command;
 
 class Jables extends Command
 {

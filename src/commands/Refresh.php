@@ -1,10 +1,10 @@
 <?php
-namespace hedronium\Jables\commands;
+namespace Boparaiamrit\Jables\commands;
 
-use hedronium\Jables\Checker;
-use hedronium\Jables\Runner;
-use hedronium\Jables\Destroyer;
-use hedronium\Jables\Command;
+use Boparaiamrit\Jables\Checker;
+use Boparaiamrit\Jables\Runner;
+use Boparaiamrit\Jables\Destroyer;
+use Boparaiamrit\Jables\Command;
 
 class Refresh extends Command
 {

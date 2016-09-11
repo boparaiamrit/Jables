@@ -1,7 +1,7 @@
 <?php
-namespace hedronium\Jables\commands;
+namespace Boparaiamrit\Jables\commands;
 
-use hedronium\Jables\Command;
+use Boparaiamrit\Jables\Command;
 
 class Diff extends Command
 {

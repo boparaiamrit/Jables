@@ -1,8 +1,8 @@
 <?php
-namespace hedronium\Jables\commands;
+namespace Boparaiamrit\Jables\commands;
 
 use Illuminate\Filesystem\Filesystem;
-use hedronium\Jables\Command;
+use Boparaiamrit\Jables\Command;
 
 class CreateFolder extends Command
 {

@@ -1,13 +1,13 @@
 <?php
-namespace hedronium\Jables;
+namespace Boparaiamrit\Jables;
 
 use Seld\JsonLint\JsonParser;
 use Symfony\Component\Yaml\Yaml;
 
 use Illuminate\Filesystem\Filesystem;
 
-use \hedronium\Jables\exceptions\ParseException;
-use \hedronium\Jables\exceptions\NameCollisionException;
+use \Boparaiamrit\Jables\exceptions\ParseException;
+use \Boparaiamrit\Jables\exceptions\NameCollisionException;
 
 class Loader
 {

@@ -1,11 +1,11 @@
 <?php
-namespace hedronium\Jables;
+namespace Boparaiamrit\Jables;
 
 use Illuminate\Filesystem\Filesystem;
 use Seld\JsonLint\JsonParser;
 
-use \hedronium\Jables\exceptions\ParseException;
-use \hedronium\Jables\exceptions\SchemaException;
+use \Boparaiamrit\Jables\exceptions\ParseException;
+use \Boparaiamrit\Jables\exceptions\SchemaException;
 
 class Checker
 {

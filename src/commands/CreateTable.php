@@ -1,8 +1,8 @@
 <?php
-namespace hedronium\Jables\commands;
+namespace Boparaiamrit\Jables\commands;
 
-use hedronium\Jables\Runner;
-use hedronium\Jables\Command;
+use Boparaiamrit\Jables\Runner;
+use Boparaiamrit\Jables\Command;
 
 class CreateTable extends Command
 {

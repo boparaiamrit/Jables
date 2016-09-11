@@ -1,8 +1,8 @@
 <?php
-namespace hedronium\Jables\types;
+namespace Boparaiamrit\Jables\types;
 
-use hedronium\Jables\BaseType;
-use hedronium\Jables\Field;
+use Boparaiamrit\Jables\BaseType;
+use Boparaiamrit\Jables\Field;
 
 class Integer extends BaseType implements Field {
 

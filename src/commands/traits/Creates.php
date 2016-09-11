@@ -1,5 +1,5 @@
 <?php
-namespace hedronium\Jables\commands\traits;
+namespace Boparaiamrit\Jables\commands\traits;
 
 trait Creates {
 	public function create()

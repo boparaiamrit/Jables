@@ -1,5 +1,5 @@
 <?php
-namespace hedronium\Jables;
+namespace Boparaiamrit\Jables;
 
 interface Field {
 	public function init($table, $name);

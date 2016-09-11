@@ -1,9 +1,9 @@
 <?php
-namespace hedronium\Jables\commands;
+namespace Boparaiamrit\Jables\commands;
 
-use hedronium\Jables\Command;
-use hedronium\Jables\Checker;
-use hedronium\Jables\Prettifyer;
+use Boparaiamrit\Jables\Command;
+use Boparaiamrit\Jables\Checker;
+use Boparaiamrit\Jables\Prettifyer;
 
 class Prettify extends Command
 {

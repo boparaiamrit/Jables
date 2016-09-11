@@ -1,5 +1,5 @@
 <?php
-namespace hedronium\Jables\exceptions;
+namespace Boparaiamrit\Jables\exceptions;
 
 class NameCollisionException extends \Exception
 {

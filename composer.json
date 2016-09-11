@@ -1,8 +1,13 @@
 {
-	"name": "hedronium/jables",
+	"name": "boparaiamrit/jables",
 	"description": "Write your Laravel Database Schema in JSON.",
 	"type": "library",
-	"keywords": ["laravel", "database", "schema", "json"],
+	"keywords": [
+		"laravel",
+		"database",
+		"schema",
+		"json"
+	],
 	"require": {
 		"seld/jsonlint": "^1.3",
 		"justinrainbow/json-schema": "~1.3",
@@ -10,7 +15,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"hedronium\\Jables\\": "src/"
+			"Boparaiamrit\\Jables\\": "src/"
 		}
 	},
 	"license": "MIT",
@@ -22,6 +27,10 @@
 		{
 			"name": "Aniruddha Chakraborty",
 			"email": "project.anik@gmail.com"
+		},
+		{
+			"name": "Amritpal Singh",
+			"email": "boparaiamrit@gmail.com"
 		}
 	]
 }

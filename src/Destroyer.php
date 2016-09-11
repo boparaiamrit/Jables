@@ -1,5 +1,5 @@
 <?php
-namespace hedronium\Jables;
+namespace Boparaiamrit\Jables;
 
 use Seld\JsonLint\JsonParser;
 use Illuminate\Database\Schema\Blueprint;

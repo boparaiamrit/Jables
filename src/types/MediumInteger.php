@@ -1,5 +1,5 @@
 <?php
-namespace hedronium\Jables\types;
+namespace Boparaiamrit\Jables\types;
 
 class MediumInteger extends Integer {
 
