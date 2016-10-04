@@ -1,5 +1,5 @@
 <?php
 return [
-	'table' => 'jables',
+	'table'  => 'jables',
 	'folder' => 'jables'
 ];

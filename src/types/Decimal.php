@@ -1,9 +1,12 @@
 <?php
 namespace Boparaiamrit\Jables\types;
+
+
 use Boparaiamrit\Jables\BaseType;
 use Boparaiamrit\Jables\Field;
 
-class Decimal extends BaseType implements Field {
+class Decimal extends BaseType implements Field
+{
 	public function init($table, $name)
 	{
 		return $table->decimal(
@@ -12,6 +15,8 @@ class Decimal extends BaseType implements Field {
 			$this->schema->precision
 		);
 	}
-
-	public function render(){}
+	
+	public function render()
+	{
+	}
 }

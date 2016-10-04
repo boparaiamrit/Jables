@@ -1,7 +1,9 @@
 {
 	"$schema": "http://json-schema.org/schema#",
 	"allOf": [
-		{"$ref":"base_field.json#"},
+		{
+			"$ref": "base_field.json#"
+		},
 		{
 			"properties": {
 				"values": {
@@ -10,7 +12,9 @@
 					"uniqueItems": true
 				}
 			},
-			"required": ["values"]
+			"required": [
+				"values"
+			]
 		}
 	]
 }

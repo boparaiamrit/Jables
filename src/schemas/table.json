@@ -1,6 +1,5 @@
 {
 	"$schema": "http://json-schema.org/schema#",
-
 	"type": "object",
 	"additionalProperties": false,
 	"properties": {
@@ -16,9 +15,13 @@
 				"^(?!timestamps|soft-deletes).*$": {
 					"type": "object",
 					"properties": {
-						"type": {"$ref": "field_type.json#/type"}
+						"type": {
+							"$ref": "field_type.json#/type"
+						}
 					},
-					"required": ["type"]
+					"required": [
+						"type"
+					]
 				}
 			},
 			"minProperties": 1
@@ -55,5 +58,7 @@
 			"type": "string"
 		}
 	},
-	"required": ["fields"]
+	"required": [
+		"fields"
+	]
 }
